@@ -1,6 +1,6 @@
 # setup_hadoop
 #~ make this script executable by using chmod +x setup_hadoop.sh
-#~ description/about     :This script helps to configure hadoop.
+#~ description/about     :This script helps to configure hadoop, in Debian & its derivaties
 #~ Motivation: wanted to experiment with bash and to help my friends to setup hadoop   #~ easily 
 #~ feel free to change and adjust to your liking. 
 #~ The author is not responsible for the damage that has been
