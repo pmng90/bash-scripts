@@ -3,8 +3,7 @@
 #title           :setup_hadoop.sh
 #description     :This script helps to configure hadoop 
 #date            :20180112
-#usage		 	 :bash setup_hadoop.sh or ./setup_hadoop.sh
-#notes           :Install Vim and Emacs to use this script.
+#usage		 :bash setup_hadoop.sh or ./setup_hadoop.sh
 #==============================================================================
 me=`basename "$0"`
 
