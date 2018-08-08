@@ -1,0 +1,1 @@
+This script will work under debian based distributions. Intention was to help my friends and colleague to setup hadoop easily. Please do suggest changes / features .

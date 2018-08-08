@@ -1,0 +1,1 @@
+This script will work under ubuntu 16.XX / 14.XX. Intention was to ease the builds for the device. The script has to be placed with in the rom folder. Please do suggest changes / features .
